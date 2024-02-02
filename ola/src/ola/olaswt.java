@@ -58,5 +58,4 @@ public class olaswt {
 		btnBotao.setBounds(156, 119, 89, 23);
 		frame.getContentPane().add(btnBotao);
 	}
-
 }
