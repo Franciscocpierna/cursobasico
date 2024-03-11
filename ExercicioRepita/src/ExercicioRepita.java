@@ -11,7 +11,7 @@ public class ExercicioRepita {
 		  //JOptionPane.showMessageDialog(null,"vc digitou valor " + n);
 		  s +=n;
 		} while(n != 0);
-		JOptionPane.showMessageDialog(null,"Resultado final------ "+"somatorio Vale" + s);
+		JOptionPane.showMessageDialog(null,"Resultado final------ "+"somatorio Vale " + s);
 	}
 
 }
